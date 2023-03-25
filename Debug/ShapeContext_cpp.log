@@ -1,0 +1,49 @@
+﻿  EMG.cpp
+  hist_cost.cpp
+  Hungarian.cpp
+  main.cpp
+  sc_compute.cpp
+  正在生成代码...
+LINK : warning LNK4286: 符号“___iob_func”(在“main.obj”中定义)已由“libf2cd.lib(wrtfmt.obj)”导入
+LINK : warning LNK4217: 符号“___iob_func”(在“ main.obj”中定义)已由“libf2cd.lib(fmt.obj)”(函数“_op_gen”中)导入
+LINK : warning LNK4286: 符号“___iob_func”(在“main.obj”中定义)已由“libf2cd.lib(f77_aloc.obj)”导入
+LINK : warning LNK4286: 符号“___iob_func”(在“main.obj”中定义)已由“libf2cd.lib(sig_die.obj)”导入
+LINK : warning LNK4286: 符号“___iob_func”(在“main.obj”中定义)已由“libf2cd.lib(err.obj)”导入
+libf2cd.lib(exit_.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(exit_.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(cabs.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(cabs.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(ctype.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(ctype.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(sig_die.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(sig_die.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(pow_dd.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(pow_dd.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(pow_di.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(pow_di.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(pow_ii.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(pow_ii.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(pow_ri.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(pow_ri.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(c_abs.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(c_abs.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(c_div.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(c_div.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(z_abs.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(z_abs.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(z_div.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(z_div.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(r_cnjg.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(r_cnjg.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(r_imag.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(r_imag.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(r_lg10.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(r_lg10.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(r_sign.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(r_sign.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(d_cnjg.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(d_cnjg.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(d_imag.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(d_imag.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(d_lg10.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(d_lg10.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(d_sign.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(d_sign.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(i_dnnt.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(i_dnnt.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(i_nint.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(i_nint.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(f77_aloc.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(f77_aloc.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(s_cat.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(s_cat.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(s_cmp.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(s_cmp.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(s_copy.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(s_copy.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(close.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(close.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(endfile.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(endfile.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(err.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(err.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(fmt.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(fmt.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(fmtlib.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(fmtlib.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(open.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(open.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(sfe.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(sfe.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(util.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(util.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(wref.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(wref.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(wrtfmt.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(wrtfmt.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+libf2cd.lib(wsfe.obj) : warning LNK4099: 未找到 PDB“”(使用“libf2cd.lib(wsfe.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  ShapeContext_cpp.vcxproj -> F:\ShapeContext_cpp\Debug\ShapeContext_cpp.exe

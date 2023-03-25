@@ -1,0 +1,4 @@
+F:/ShapeContext_cpp/out/build/x64-Debug/CMakeFiles/SHAPECONTEXT_CPP.dir
+F:/ShapeContext_cpp/out/build/x64-Debug/CMakeFiles/build_all_configs.dir
+F:/ShapeContext_cpp/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+F:/ShapeContext_cpp/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

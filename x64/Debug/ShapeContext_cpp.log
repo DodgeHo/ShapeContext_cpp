@@ -1,0 +1,89 @@
+﻿  EMG.cpp
+F:\ShapeContext_cpp\EMG.cpp(7,22): warning C4244: “=”: 从“const arma::uword”转换到“int”，可能丢失数据
+F:\ShapeContext_cpp\EMG.cpp(8,12): warning C4244: “=”: 从“const arma::uword”转换到“int”，可能丢失数据
+EMG.obj : error LNK2019: 无法解析的外部符号 sdot_，函数 "double __cdecl arma::blas::dot<double>(unsigned __int64,double const *,double const *)" (??$dot@N@blas@arma@@YAN_KPEBN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 sdot_
+EMG.obj : error LNK2019: 无法解析的外部符号 ddot_，函数 "double __cdecl arma::blas::dot<double>(unsigned __int64,double const *,double const *)" (??$dot@N@blas@arma@@YAN_KPEBN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 ddot_
+EMG.obj : error LNK2019: 无法解析的外部符号 sgemv_，函数 "void __cdecl arma::blas::gemv<double>(char const *,int const *,int const *,double const *,double const *,int const *,double const *,int const *,double const *,double *,int const *)" (??$gemv@N@blas@arma@@YAXPEBDPEBH1PEBN21212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 sgemv_
+EMG.obj : error LNK2019: 无法解析的外部符号 dgemv_，函数 "void __cdecl arma::blas::gemv<double>(char const *,int const *,int const *,double const *,double const *,int const *,double const *,int const *,double const *,double *,int const *)" (??$gemv@N@blas@arma@@YAXPEBDPEBH1PEBN21212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 dgemv_
+EMG.obj : error LNK2019: 无法解析的外部符号 cgemv_，函数 "void __cdecl arma::blas::gemv<double>(char const *,int const *,int const *,double const *,double const *,int const *,double const *,int const *,double const *,double *,int const *)" (??$gemv@N@blas@arma@@YAXPEBDPEBH1PEBN21212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 cgemv_
+EMG.obj : error LNK2019: 无法解析的外部符号 zgemv_，函数 "void __cdecl arma::blas::gemv<double>(char const *,int const *,int const *,double const *,double const *,int const *,double const *,int const *,double const *,double *,int const *)" (??$gemv@N@blas@arma@@YAXPEBDPEBH1PEBN21212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 zgemv_
+EMG.obj : error LNK2019: 无法解析的外部符号 sgemm_，函数 "void __cdecl arma::blas::gemm<double>(char const *,char const *,int const *,int const *,int const *,double const *,double const *,int const *,double const *,int const *,double const *,double *,int const *)" (??$gemm@N@blas@arma@@YAXPEBD0PEBH11PEBN21212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 sgemm_
+EMG.obj : error LNK2019: 无法解析的外部符号 dgemm_，函数 "void __cdecl arma::blas::gemm<double>(char const *,char const *,int const *,int const *,int const *,double const *,double const *,int const *,double const *,int const *,double const *,double *,int const *)" (??$gemm@N@blas@arma@@YAXPEBD0PEBH11PEBN21212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 dgemm_
+EMG.obj : error LNK2019: 无法解析的外部符号 cgemm_，函数 "void __cdecl arma::blas::gemm<double>(char const *,char const *,int const *,int const *,int const *,double const *,double const *,int const *,double const *,int const *,double const *,double *,int const *)" (??$gemm@N@blas@arma@@YAXPEBD0PEBH11PEBN21212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 cgemm_
+EMG.obj : error LNK2019: 无法解析的外部符号 zgemm_，函数 "void __cdecl arma::blas::gemm<double>(char const *,char const *,int const *,int const *,int const *,double const *,double const *,int const *,double const *,int const *,double const *,double *,int const *)" (??$gemm@N@blas@arma@@YAXPEBD0PEBH11PEBN21212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 zgemm_
+EMG.obj : error LNK2019: 无法解析的外部符号 ssyrk_，函数 "void __cdecl arma::blas::syrk<double>(char const *,char const *,int const *,int const *,double const *,double const *,int const *,double const *,double *,int const *)" (??$syrk@N@blas@arma@@YAXPEBD0PEBH1PEBN212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 ssyrk_
+EMG.obj : error LNK2019: 无法解析的外部符号 dsyrk_，函数 "void __cdecl arma::blas::syrk<double>(char const *,char const *,int const *,int const *,double const *,double const *,int const *,double const *,double *,int const *)" (??$syrk@N@blas@arma@@YAXPEBD0PEBH1PEBN212PEAN1@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 dsyrk_
+EMG.obj : error LNK2019: 无法解析的外部符号 sgesv_，函数 "void __cdecl arma::lapack::gesv<double>(int *,int *,double *,int *,int *,double *,int *,int *)" (??$gesv@N@lapack@arma@@YAXPEAH0PEAN00100@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 sgesv_
+EMG.obj : error LNK2019: 无法解析的外部符号 dgesv_，函数 "void __cdecl arma::lapack::gesv<double>(int *,int *,double *,int *,int *,double *,int *,int *)" (??$gesv@N@lapack@arma@@YAXPEAH0PEAN00100@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 dgesv_
+EMG.obj : error LNK2019: 无法解析的外部符号 cgesv_，函数 "void __cdecl arma::lapack::gesv<double>(int *,int *,double *,int *,int *,double *,int *,int *)" (??$gesv@N@lapack@arma@@YAXPEAH0PEAN00100@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 cgesv_
+EMG.obj : error LNK2019: 无法解析的外部符号 zgesv_，函数 "void __cdecl arma::lapack::gesv<double>(int *,int *,double *,int *,int *,double *,int *,int *)" (??$gesv@N@lapack@arma@@YAXPEAH0PEAN00100@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 zgesv_
+EMG.obj : error LNK2019: 无法解析的外部符号 sposv_，函数 "void __cdecl arma::lapack::posv<double>(char *,int *,int *,double *,int *,double *,int *,int *)" (??$posv@N@lapack@arma@@YAXPEADPEAH1PEAN1211@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 sposv_
+EMG.obj : error LNK2019: 无法解析的外部符号 dposv_，函数 "void __cdecl arma::lapack::posv<double>(char *,int *,int *,double *,int *,double *,int *,int *)" (??$posv@N@lapack@arma@@YAXPEADPEAH1PEAN1211@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 dposv_
+EMG.obj : error LNK2019: 无法解析的外部符号 cposv_，函数 "void __cdecl arma::lapack::posv<double>(char *,int *,int *,double *,int *,double *,int *,int *)" (??$posv@N@lapack@arma@@YAXPEADPEAH1PEAN1211@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 cposv_
+EMG.obj : error LNK2019: 无法解析的外部符号 zposv_，函数 "void __cdecl arma::lapack::posv<double>(char *,int *,int *,double *,int *,double *,int *,int *)" (??$posv@N@lapack@arma@@YAXPEADPEAH1PEAN1211@Z) 中引用了该符号
+sc_compute.obj : error LNK2001: 无法解析的外部符号 zposv_
+sc_compute.obj : error LNK2019: 无法解析的外部符号 sgetrf_，函数 "void __cdecl arma::lapack::getrf<double>(int *,int *,double *,int *,int *,int *)" (??$getrf@N@lapack@arma@@YAXPEAH0PEAN000@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dgetrf_，函数 "void __cdecl arma::lapack::getrf<double>(int *,int *,double *,int *,int *,int *)" (??$getrf@N@lapack@arma@@YAXPEAH0PEAN000@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 cgetrf_，函数 "void __cdecl arma::lapack::getrf<double>(int *,int *,double *,int *,int *,int *)" (??$getrf@N@lapack@arma@@YAXPEAH0PEAN000@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 zgetrf_，函数 "void __cdecl arma::lapack::getrf<double>(int *,int *,double *,int *,int *,int *)" (??$getrf@N@lapack@arma@@YAXPEAH0PEAN000@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 sgetri_，函数 "void __cdecl arma::lapack::getri<double>(int *,double *,int *,int *,double *,int *,int *)" (??$getri@N@lapack@arma@@YAXPEAHPEAN00100@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dgetri_，函数 "void __cdecl arma::lapack::getri<double>(int *,double *,int *,int *,double *,int *,int *)" (??$getri@N@lapack@arma@@YAXPEAHPEAN00100@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 cgetri_，函数 "void __cdecl arma::lapack::getri<double>(int *,double *,int *,int *,double *,int *,int *)" (??$getri@N@lapack@arma@@YAXPEAHPEAN00100@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 zgetri_，函数 "void __cdecl arma::lapack::getri<double>(int *,double *,int *,int *,double *,int *,int *)" (??$getri@N@lapack@arma@@YAXPEAHPEAN00100@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 strtri_，函数 "void __cdecl arma::lapack::trtri<double>(char *,char *,int *,double *,int *,int *)" (??$trtri@N@lapack@arma@@YAXPEAD0PEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dtrtri_，函数 "void __cdecl arma::lapack::trtri<double>(char *,char *,int *,double *,int *,int *)" (??$trtri@N@lapack@arma@@YAXPEAD0PEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 ctrtri_，函数 "void __cdecl arma::lapack::trtri<double>(char *,char *,int *,double *,int *,int *)" (??$trtri@N@lapack@arma@@YAXPEAD0PEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 ztrtri_，函数 "void __cdecl arma::lapack::trtri<double>(char *,char *,int *,double *,int *,int *)" (??$trtri@N@lapack@arma@@YAXPEAD0PEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 ssyev_，函数 "void __cdecl arma::lapack::syev<double>(char *,char *,int *,double *,int *,double *,double *,int *,int *)" (??$syev@N@lapack@arma@@YAXPEAD0PEAHPEAN12211@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dsyev_，函数 "void __cdecl arma::lapack::syev<double>(char *,char *,int *,double *,int *,double *,double *,int *,int *)" (??$syev@N@lapack@arma@@YAXPEAD0PEAHPEAN12211@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 ssyevd_，函数 "void __cdecl arma::lapack::syevd<double>(char *,char *,int *,double *,int *,double *,double *,int *,int *,int *,int *)" (??$syevd@N@lapack@arma@@YAXPEAD0PEAHPEAN1221111@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dsyevd_，函数 "void __cdecl arma::lapack::syevd<double>(char *,char *,int *,double *,int *,double *,double *,int *,int *,int *,int *)" (??$syevd@N@lapack@arma@@YAXPEAD0PEAHPEAN1221111@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 spotrf_，函数 "void __cdecl arma::lapack::potrf<double>(char *,int *,double *,int *,int *)" (??$potrf@N@lapack@arma@@YAXPEADPEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dpotrf_，函数 "void __cdecl arma::lapack::potrf<double>(char *,int *,double *,int *,int *)" (??$potrf@N@lapack@arma@@YAXPEADPEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 cpotrf_，函数 "void __cdecl arma::lapack::potrf<double>(char *,int *,double *,int *,int *)" (??$potrf@N@lapack@arma@@YAXPEADPEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 zpotrf_，函数 "void __cdecl arma::lapack::potrf<double>(char *,int *,double *,int *,int *)" (??$potrf@N@lapack@arma@@YAXPEADPEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 spotri_，函数 "void __cdecl arma::lapack::potri<double>(char *,int *,double *,int *,int *)" (??$potri@N@lapack@arma@@YAXPEADPEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dpotri_，函数 "void __cdecl arma::lapack::potri<double>(char *,int *,double *,int *,int *)" (??$potri@N@lapack@arma@@YAXPEADPEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 cpotri_，函数 "void __cdecl arma::lapack::potri<double>(char *,int *,double *,int *,int *)" (??$potri@N@lapack@arma@@YAXPEADPEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 zpotri_，函数 "void __cdecl arma::lapack::potri<double>(char *,int *,double *,int *,int *)" (??$potri@N@lapack@arma@@YAXPEADPEAHPEAN11@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 sgesvd_，函数 "void __cdecl arma::lapack::gesvd<double>(char *,char *,int *,int *,double *,int *,double *,double *,int *,double *,int *,double *,int *,int *)" (??$gesvd@N@lapack@arma@@YAXPEAD0PEAH1PEAN122121211@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dgesvd_，函数 "void __cdecl arma::lapack::gesvd<double>(char *,char *,int *,int *,double *,int *,double *,double *,int *,double *,int *,double *,int *,int *)" (??$gesvd@N@lapack@arma@@YAXPEAD0PEAH1PEAN122121211@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 sgesdd_，函数 "void __cdecl arma::lapack::gesdd<double>(char *,int *,int *,double *,int *,double *,double *,int *,double *,int *,double *,int *,int *,int *)" (??$gesdd@N@lapack@arma@@YAXPEADPEAH1PEAN1221212111@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dgesdd_，函数 "void __cdecl arma::lapack::gesdd<double>(char *,int *,int *,double *,int *,double *,double *,int *,double *,int *,double *,int *,int *,int *)" (??$gesdd@N@lapack@arma@@YAXPEADPEAH1PEAN1221212111@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 slange_，函数 "double __cdecl arma::lapack::lange<double>(char *,int *,int *,double *,int *,double *)" (??$lange@N@lapack@arma@@YANPEADPEAH1PEAN12@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dlange_，函数 "double __cdecl arma::lapack::lange<double>(char *,int *,int *,double *,int *,double *)" (??$lange@N@lapack@arma@@YANPEADPEAH1PEAN12@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 clange_，函数 "double __cdecl arma::lapack::lange<double>(char *,int *,int *,double *,int *,double *)" (??$lange@N@lapack@arma@@YANPEADPEAH1PEAN12@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 zlange_，函数 "double __cdecl arma::lapack::lange<double>(char *,int *,int *,double *,int *,double *)" (??$lange@N@lapack@arma@@YANPEADPEAH1PEAN12@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 slansy_，函数 "double __cdecl arma::lapack::lansy<double>(char *,char *,int *,double *,int *,double *)" (??$lansy@N@lapack@arma@@YANPEAD0PEAHPEAN12@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dlansy_，函数 "double __cdecl arma::lapack::lansy<double>(char *,char *,int *,double *,int *,double *)" (??$lansy@N@lapack@arma@@YANPEAD0PEAHPEAN12@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 clansy_，函数 "double __cdecl arma::lapack::lansy<double>(char *,char *,int *,double *,int *,double *)" (??$lansy@N@lapack@arma@@YANPEAD0PEAHPEAN12@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 zlansy_，函数 "double __cdecl arma::lapack::lansy<double>(char *,char *,int *,double *,int *,double *)" (??$lansy@N@lapack@arma@@YANPEAD0PEAHPEAN12@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 sgecon_，函数 "void __cdecl arma::lapack::gecon<double>(char *,int *,double const *,int *,double const *,double *,double *,int *,int *)" (??$gecon@N@lapack@arma@@YAXPEADPEAHPEBN12PEAN311@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dgecon_，函数 "void __cdecl arma::lapack::gecon<double>(char *,int *,double const *,int *,double const *,double *,double *,int *,int *)" (??$gecon@N@lapack@arma@@YAXPEADPEAHPEBN12PEAN311@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 spocon_，函数 "void __cdecl arma::lapack::pocon<double>(char *,int *,double const *,int *,double const *,double *,double *,int *,int *)" (??$pocon@N@lapack@arma@@YAXPEADPEAHPEBN12PEAN311@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dpocon_，函数 "void __cdecl arma::lapack::pocon<double>(char *,int *,double const *,int *,double const *,double *,double *,int *,int *)" (??$pocon@N@lapack@arma@@YAXPEADPEAHPEBN12PEAN311@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 strcon_，函数 "void __cdecl arma::lapack::trcon<double>(char *,char *,char *,int *,double const *,int *,double *,double *,int *,int *)" (??$trcon@N@lapack@arma@@YAXPEAD00PEAHPEBN1PEAN311@Z) 中引用了该符号
+sc_compute.obj : error LNK2019: 无法解析的外部符号 dtrcon_，函数 "void __cdecl arma::lapack::trcon<double>(char *,char *,char *,int *,double const *,int *,double *,double *,int *,int *)" (??$trcon@N@lapack@arma@@YAXPEAD00PEAHPEBN1PEAN311@Z) 中引用了该符号
+Armadillo\blas.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+Armadillo\lapack.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+Armadillo\libf2cd.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+F:\ShapeContext_cpp\x64\Debug\ShapeContext_cpp.exe : fatal error LNK1120: 62 个无法解析的外部命令

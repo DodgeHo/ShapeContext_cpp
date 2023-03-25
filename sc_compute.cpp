@@ -39,7 +39,7 @@ pair<mat, double> sc_compute(mat Bsamp, mat Tsamp, vector<bool> out_vec, double 
 				tmp.push_back(r_array(i, i));
 		}	*/
 		mat tmp = r_array;
-		for (int i = 0; i < out_vec.size(); ++i) {
+		for (int i = 0; i < int(out_vec.size()); ++i) {
 			if (out_vec[i]) {
 				tmp.row(i) = 0;
 				tmp.col(i) = 0;
@@ -77,7 +77,7 @@ pair<mat, double> sc_compute(mat Bsamp, mat Tsamp, vector<bool> out_vec, double 
 	BH.zeros();
 	for (int n = 0; n < data_length; ++n) {
 		mat fzn = fz.row(n);
-		for (int i = 0; i < out_vec.size(); ++i) {
+		for (int i = 0; i <  int(out_vec.size()); ++i) {
 			if (out_vec[i])
 				fzn(0, i) = 0;
 		}
